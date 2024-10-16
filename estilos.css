@@ -1,3 +1,32 @@
 body{
-    background-color: bisque;
+    background-color: #78d5f5;
+}
+
+#navegacion{
+    background-color: #787ff6;
+}
+
+#footer1{
+    background-color:  rgb(228, 204, 168);
+}
+li{
+    background-color: #1CA7EC;
+    display: inline;
+}
+#seccion1{
+    background-color: #1CA7EC;
+    margin-left: 250px;
+    padding-left: 15px;
+    padding-top: 10px;
+    
+    
+    
+}
+
+#barralateral{
+    background-color: aliceblue;
+    float: left;
+    height: 1080px;
+    clear: both;
+
 }
